@@ -1,24 +1,38 @@
-# README
+#暇人アプリ「Himatter」
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サービス概要
 
-Things you may want to cover:
+急な余暇ができたときに、<br>
+現在遊んでいる人を探し、<br>
+マッチングを提供するアプリです。
+# 登場人物
 
-* Ruby version
+エンドユーザー
 
-* System dependencies
+- 急な余暇ができたひと人
 
-* Configuration
+管理者
 
-* Database creation
+- エンドユーザーの情報を管理する人
 
-* Database initialization
+## 問題
 
-* How to run the test suite
+2020年4月現在コロナウイルスの影響で、人との交流が減ってきている。<br>
+コロナが終息したときに、人との交流がさかんになることが考えられるが、<br>
+計画していた予定が急にキャンセルになることが考えられる。<br>
+急な余暇をどう工夫すれば有効に活用できるかが課題となっている。
 
-* Services (job queues, cache servers, search engines, etc.)
+## 解決方法
 
-* Deployment instructions
+隙間時間ができたときにアプリを開いてもらう、<br>
+すると現在遊んでいる人の情報が一覧として表示される。<br>
+一緒に遊びたいと思った場合に、Twitterでコンタクトを取れる。
 
-* ...
+## プロダクト
+
+急な余暇の有効活用化を推進するWebアプリケーション
+
+## マーケット
+
+急な余暇を有効活用したい学生や社会人やお年寄り
+
